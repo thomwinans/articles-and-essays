@@ -5,6 +5,9 @@ categories: [Essays]
 tags: [ai, lisp, programming]
 ---
 
+> [Download this essay as PDF](/assets/pdf/TheOldNewThing.pdf)
+{: .prompt-info }
+
 Here's something that has been bugging me for a while. Everyone talks about AI as if there were one kind. There's "old AI" — the symbolic, rule-based, Lisp-powered kind that tried to model the world with logic — and "new AI," meaning the large language models that learned to talk by reading the internet. And the story we've all decided to tell ourselves is that the new kind won, the old kind failed, so just move along.
 
 But this story is wrong. Not just a little wrong. It's wrong in a way that's causing people to make big mistakes right now, mistakes visible in startups and established companies, various articles published on the Web, and elsewhere.
