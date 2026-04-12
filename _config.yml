@@ -20,6 +20,28 @@ timezone: America/New_York
 # Pagination
 paginate: 10
 
+# Collections
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: false
+      toc: true
+      permalink: /posts/:title/
+  - scope:
+      path: _tabs
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
 # Plugins
 plugins:
   - jekyll-paginate
@@ -32,6 +54,9 @@ kramdown:
   input: GFM
   auto_ids: true
   syntax_highlighter: rouge
+
+sass:
+  style: compressed
 
 # Exclude from processing
 exclude:
