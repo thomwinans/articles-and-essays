@@ -7,6 +7,5 @@ order: 4
 
 I am Tom Winans, a software engineer, technology diligence consultant, and technology company co-founder. 
 
-Writings presented here cover reflect learning and interests developed during the past 30+ years of developing custom software, assessing and helping companies, and learning from some incredible people to whom I owe more than will fit here.
-
+Writings here reflect interests shaped by more than thirty years of building custom software, helping and learning from companies through technical diligence and consulting, and learning from extraordinary people who were generous enough to invest in me. No words of thanks would sufficiently capture my gratitude to them.
 
