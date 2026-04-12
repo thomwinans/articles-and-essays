@@ -1,2 +1,3 @@
----
-# Contact options
+- type: linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/tomwinans/"

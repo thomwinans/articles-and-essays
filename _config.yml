@@ -11,6 +11,8 @@ theme: jekyll-theme-chirpy
 avatar: /assets/img/avatar.png
 social:
   name: Tom Winans
+  links:
+    - https://www.linkedin.com/in/tomwinans/
 
 # Appearance
 theme_mode: light
