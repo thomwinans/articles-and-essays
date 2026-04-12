@@ -5,7 +5,7 @@ url: "https://articles-and-essays.concentrum.com"
 baseurl: ""
 
 # Theme
-remote_theme: cotes2020/jekyll-theme-chirpy
+theme: jekyll-theme-chirpy
 
 # Author
 social:
@@ -22,7 +22,6 @@ paginate: 10
 
 # Plugins
 plugins:
-  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -34,19 +33,11 @@ kramdown:
   auto_ids: true
   syntax_highlighter: rouge
 
-# Archives
-jekyll-archives:
-  enabled: [categories, tags]
-  layouts:
-    category: category
-    tag: tag
-  permalinks:
-    tag: /tags/:name/
-    category: /categories/:name/
-
 # Exclude from processing
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
   - LICENSE
+  - "*.gem"
+  - .github
