@@ -8,11 +8,12 @@ baseurl: ""
 theme: jekyll-theme-chirpy
 
 # Author
+avatar: /assets/img/avatar.png
 social:
   name: Tom Winans
 
 # Appearance
-theme_mode: # [light | dark] - leave blank for user preference
+theme_mode: light
 
 # Date format
 timezone: America/New_York
