@@ -3,8 +3,8 @@ description: A collection of articles and essays by Tom Winans
 url: "https://articles-and-essays.concentrum.com"
 baseurl: ""
 
-# Theme
-theme: just-the-docs
+# Theme - use remote_theme for GitHub Pages compatibility
+remote_theme: just-the-docs/just-the-docs
 
 # Color scheme ("light" or "dark")
 color_scheme: light
@@ -25,6 +25,7 @@ back_to_top_text: "Back to top"
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
 
