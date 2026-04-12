@@ -15,4 +15,4 @@ Browse using the navigation on the left, or use the search bar above to find som
 
 ## Recent
 
-- [A Sample Essay: On the Value of Writing]({% link essays/sample-essay.md %})
+- [The Old New Thing]({% link essays/TheOldNewThing.md %})
