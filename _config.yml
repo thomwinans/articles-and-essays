@@ -1,0 +1,43 @@
+title: Articles & Essays
+description: A collection of articles and essays by Tom Winans
+url: "https://articles-and-essays.concentrum.com"
+baseurl: ""
+
+# Theme
+theme: just-the-docs
+
+# Color scheme ("light" or "dark")
+color_scheme: light
+
+# Search
+search_enabled: true
+search.button: true
+
+# Navigation
+nav_sort: case_insensitive
+
+# Footer
+footer_content: "&copy; 2026 Tom Winans. All rights reserved."
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
