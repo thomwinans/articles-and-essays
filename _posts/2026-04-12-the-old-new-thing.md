@@ -1,14 +1,9 @@
 ---
 title: "The Old New Thing"
-layout: default
-nav_order: 1
-parent: Essays
+date: 2026-04-12
+categories: [Essays]
+tags: [ai, lisp, programming]
 ---
-
-
-# The Old New Thing
-
-*April 2026*
 
 Here's something that has been bugging me for a while. Everyone talks about AI as if there were one kind. There's "old AI" — the symbolic, rule-based, Lisp-powered kind that tried to model the world with logic — and "new AI," meaning the large language models that learned to talk by reading the internet. And the story we've all decided to tell ourselves is that the new kind won, the old kind failed, so just move along.
 
@@ -44,7 +39,7 @@ Or you could use a language where there is no seam.
 
 In Lisp, you can write your world model as a symbolic structure — because Lisp was literally invented for symbolic computation. You can write your planner on top of it — because Lisp has had planning and reasoning systems since before most of today's AI researchers were born. And you can write the interface to your language model as an ordinary function call that returns an ordinary Lisp expression, which you can then manipulate, transform, or feed right back into your symbolic pipeline. No serialization, no deserialization, no impedance mismatch. The LLM's output becomes a first-class citizen in your reasoning system.
 
-This is compositionality, and I think it's Lisp's deepest advantage. Not the macros, though they’re pretty cool and offer powerful compiler/interpreter capabilities predating ANTLR by a few decades. Not the REPL, though Lisp users would be lost without it. Not even the homoiconicity, though that's what makes all of it possible. It's that everything composes. You can take any two pieces and stick them together and the result is also a valid piece. In a language where code is data and data is code, the distinction between "calling a language model" and "doing symbolic reasoning" dissolves into nothing. They're just different functions that return the same kind of thing.
+This is compositionality, and I think it's Lisp's deepest advantage. Not the macros, though they're pretty cool and offer powerful compiler/interpreter capabilities predating ANTLR by a few decades. Not the REPL, though Lisp users would be lost without it. Not even the homoiconicity, though that's what makes all of it possible. It's that everything composes. You can take any two pieces and stick them together and the result is also a valid piece. In a language where code is data and data is code, the distinction between "calling a language model" and "doing symbolic reasoning" dissolves into nothing. They're just different functions that return the same kind of thing.
 
 I find it funny — funny in a slightly tragic way — that technologists in general and in the AI field keeps inventing new languages and frameworks to solve integration problems that Lisp solved in the 1970s. We see new languages, a new "AI agent framework", a new "prompt orchestration language", or a new DSL for writing robot policies emerging all the time – the pace of change is gobsmacking. Many reinvent a small, poorly understood subset of what you get for free in any decent Lisp. They trade away the vertical integration that's right there for the taking, and in return they get... what, exactly? A syntax without parentheses? If that's your biggest concern when building the future of machine intelligence, I'd gently suggest your priorities need rearranging.
 
