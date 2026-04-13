@@ -22,7 +22,7 @@ I think of technology diligence the way a doctor thinks of a physical exam. You 
 
 So why don't more companies do this for themselves?
 
-Part of the answer is that may not know how. When I started doing this work, there was no established framework for it. Each diligence engagement was essentially bespoke — a consultant would show up, ask a bunch of questions based on personal experience, poke around in the code, and write a report. The quality varied wildly depending on who you hired and what they happened to think was important. 
+Part of the answer is that they may not know how. When I started doing this work, there was no established framework for it. Each diligence engagement was essentially bespoke — a consultant would show up, ask a bunch of questions based on personal experience, poke around in the code, and write a report. The quality varied wildly depending on who you hired and what they happened to think was important. 
 
 Over the years, I grown into and learned a more systematic approach that focuses on key controls and indicators of technological health in the form of eighty-eight controls across ten domains, each with anchored rubrics that define exactly what a score of 1 through 5 means. Not "is your security good or bad?" but "do you have continuous scanning in your CI/CD pipeline with zero critical vulnerabilities in production, or have you literally never run a penetration test?" The specificity matters. Without it, everyone gives themselves a 4.
 
