@@ -8,8 +8,6 @@ tags: [technology, ai]
 > [Download this essay as PDF](/assets/pdf/ConversationAsMiddleware.pdf)
 {: .prompt-info }
 
-# Conversation as Middleware
-
 Here's something that should be obvious but isn't: the most powerful interface between software systems isn't an API. It's a conversation.
 
 I don't mean that metaphorically. I mean that literally, right now, the thing that used to require months of integration work — getting System A to understand what System B is saying, transforming data formats, handling exceptions, mapping between vocabularies — can increasingly be done by talking to a machine in English. And that changes what middleware means.
