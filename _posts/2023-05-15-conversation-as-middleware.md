@@ -8,7 +8,7 @@ tags: [technology]
 > [Download this essay as PDF](/assets/pdf/ConversationIsTheNewMiddleware.pdf)
 {: .prompt-info }
 
-I wrote earlier this year on this topic, but improvements in emerging LLM technology is gobsmacking enough to warrant another chronicling of recent experience. 
+I wrote earlier this year on this topic, but improvement in emerging LLM technology is gobsmacking enough to warrant another chronicling of recent experience. 
 
 The thing I find strangest about the current wave of language models is not that they can write. It's that you can keep talking to them. Change the subject. Come back to the old one. Ask them to rewrite the thing they just wrote, but shorter, and in the voice of someone who hates you. They go along with it. Nothing we had before did that.
 
