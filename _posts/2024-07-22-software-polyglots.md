@@ -1,6 +1,6 @@
 ---
 title: "Software Polyglots"
-date: 2025-02-01
+date: 2024-07-22 09:00:00 -0400
 categories: [Essays]
 tags: [technology, ai]
 ---

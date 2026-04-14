@@ -1,6 +1,6 @@
 ---
 title: "The Old New Thing"
-date: 2026-04-12
+date: 2026-04-12 09:00:00 -0400
 categories: [Essays]
 tags: [ai, lisp, programming]
 ---

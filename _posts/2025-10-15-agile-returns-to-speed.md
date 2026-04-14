@@ -1,6 +1,6 @@
 ---
 title: "Agile Returns To Speed"
-date: 2025-10-15
+date: 2025-10-15 09:00:00 -0400
 categories: [Essays]
 tags: [technology, ai]
 ---

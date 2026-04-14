@@ -1,6 +1,6 @@
 ---
 title: "Let There Be"
-date: 2025-02-01
+date: 2025-02-01 09:00:00 -0500
 categories: [Essays]
 tags: [technology, ai]
 ---

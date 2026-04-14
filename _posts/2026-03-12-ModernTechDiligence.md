@@ -1,6 +1,6 @@
 ---
 title: "Modern Technology Diligence"
-date: 2026-03-12
+date: 2026-03-12 09:00:00 -0400
 categories: [Essays]
 tags: [technology, diligence, startups, management]
 ---

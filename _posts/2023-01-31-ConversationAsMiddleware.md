@@ -1,6 +1,6 @@
 ---
 title: "Conversation as Middleware"
-date: 2023-01-31
+date: 2023-01-31 09:00:00 -0500
 categories: [Essays]
 tags: [technology, ai]
 ---

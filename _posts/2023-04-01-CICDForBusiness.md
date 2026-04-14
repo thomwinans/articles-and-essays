@@ -1,6 +1,6 @@
 ---
 title: "CI/CD for Business"
-date: 2023-04-01
+date: 2023-04-01 09:00:00 -0400
 categories: [Essays]
 tags: [technology]
 ---
