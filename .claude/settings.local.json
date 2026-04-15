@@ -9,7 +9,16 @@
       "Bash(curl -sL -A \"Mozilla/5.0\" \"https://ai.gopubby.com/sometimes-its-basic-and-simple-7943276d2c15?gi=c88d645210ec\" -o /tmp/article.html)",
       "Read(//tmp/**)",
       "Bash(mkdir -p /Users/tommywinans/Desktop/BasicAndSimple)",
-      "Read(//Users/tommywinans/Desktop/**)"
+      "Read(//Users/tommywinans/Desktop/**)",
+      "Read(//Users/tommywinans/Library/CloudStorage/OneDrive-c.umulo.us/General/OrgJazz/2025/**)",
+      "Read(//Users/tommywinans/Library/CloudStorage/OneDrive-c.umulo.us/General/OrgJazz/2Q2024/**)",
+      "Read(//private/tmp/**)",
+      "Bash(cp \"/Users/tommywinans/Library/CloudStorage/OneDrive-c.umulo.us/General/OrgJazz/2Q2024/Markov Blankets in Digital Twins.docx\" mb.docx)",
+      "Bash(cp \"/Users/tommywinans/Library/CloudStorage/OneDrive-c.umulo.us/General/OrgJazz/2025/Organizational Jazz_New Ways to Work_O.docx\" oj.docx)",
+      "Bash(unzip -p mb.docx word/document.xml)",
+      "Bash(unzip -p oj.docx word/document.xml)",
+      "WebFetch(domain:thom-winans.medium.com)",
+      "WebSearch"
     ]
   }
 }

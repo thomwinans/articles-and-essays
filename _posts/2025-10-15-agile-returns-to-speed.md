@@ -14,7 +14,7 @@ I've been thinking about this lately because LLMs have quietly finished the job 
 
 Consider what a sprint actually is. It's a timebox. Two weeks, usually. Why two weeks? Because that was the shortest interval in which a cross-functional team of humans could plan, build, test, and release something worth looking at. The number wasn't handed down from heaven. It was a compromise with the biology of meetings and the latency of human typing. Scrum took the Toyota Production System, swapped "cars" for "features," and called it a methodology. The rugby metaphor was supposed to be charming; in practice it described the level of finesse pretty accurately.
 
-Now imagine you told a 2005 Scrum Master that in 2026 a developer could conceive a feature at 9 a.m., describe it in English, and have a working implementation before lunch. They would have said: "Then why do we need the ceremony?"
+Now imagine you told a 2005 Scrum Master that in 2025 a developer could conceive a feature at 9 a.m., describe it in English, and have a working implementation before lunch. They would have said: "Then why do we need the ceremony?"
 
 Exactly.
 
