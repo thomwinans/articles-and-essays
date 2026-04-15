@@ -4,6 +4,8 @@ date: 2026-02-12 09:00:00 -0400
 categories: [Essays]
 tags: [ai, programming]
 ---
+> [Download this essay as PDF](/assets/pdf/DigitalTwins.pdf)
+{: .prompt-info }
 
 We spend a lot of our effort describing *how* something works, and much less describing *what* it's supposed to do. Then we're surprised when it doesn't do what we wanted.
 
