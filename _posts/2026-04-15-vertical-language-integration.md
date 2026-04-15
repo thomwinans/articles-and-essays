@@ -7,7 +7,7 @@ tags: [ai, programming]
 
 [This is a working paper.]
 
-Everyone talks about Swift as if Apple's great achievement was the language itself — the features, the syntax, the type system. Closures. Optionals. Value types. Protocols. That's the story we've agreed to tell ourselves, and I think it's wrong.
+People talk about Swift as if Apple's great achievement was the language itself — the features, the syntax, the type system. Closures. Optionals. Value types. Protocols. Undoubtedly it is a great achievement. But I think portraying it without acknowledging the still greater achievement misrepresents.
 
 The most important design decision in Swift wasn't any of its features. It was the decision to keep speaking fluent Objective-C.
 
