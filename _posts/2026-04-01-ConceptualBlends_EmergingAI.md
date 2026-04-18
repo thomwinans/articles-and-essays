@@ -3,11 +3,10 @@ title: "Conceptual Blends and Emerging AI"
 date: 2026-04-01 09:00:00 -0400
 categories: [Essays]
 tags: [ai]
+authors: [tom_winans, john_seely_brown]
 ---
 
 [This is a working paper.]
-
-*Tom Winans and John Seely Brown*
 
 When Shakespeare wrote "All the world's a stage," he wasn't making a claim about theater or geography. He was doing something more interesting. He was taking two things that have nothing to do with each other — the world and a stage — and smashing them together to produce a third thing that exists in neither. A meaning that emerges from the collision. You can't find it in "world" alone or "stage" alone. It lives only in the blend.
 
