@@ -23,7 +23,11 @@
       "WebFetch(domain:atp.fm)",
       "WebFetch(domain:www.hackingwithswift.com)",
       "Bash(curl -s -L --max-time 20 -A \"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/605.1.15\" \"https://www.hackingwithswift.com/interviews/chris-lattner-could-apple-have-improved-objective-c-instead-of-making-swift\")",
-      "Bash(python3 -c \"import sys,re,html; t=sys.stdin.read\\(\\); t=re.sub\\(r'<script.*?</script>','',t,flags=re.S\\); t=re.sub\\(r'<style.*?</style>','',t,flags=re.S\\); t=re.sub\\(r'<[^>]+>',' ',t\\); t=html.unescape\\(t\\); t=re.sub\\(r'\\\\s+',' ',t\\); print\\(t[:6000]\\)\")"
+      "Bash(python3 -c \"import sys,re,html; t=sys.stdin.read\\(\\); t=re.sub\\(r'<script.*?</script>','',t,flags=re.S\\); t=re.sub\\(r'<style.*?</style>','',t,flags=re.S\\); t=re.sub\\(r'<[^>]+>',' ',t\\); t=html.unescape\\(t\\); t=re.sub\\(r'\\\\s+',' ',t\\); print\\(t[:6000]\\)\")",
+      "WebFetch(domain:martinfowler.com)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:plato.stanford.edu)",
+      "WebFetch(domain:users.uoa.gr)"
     ]
   }
 }
