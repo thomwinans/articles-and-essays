@@ -5,7 +5,7 @@ categories: [Essays]
 tags: [technology, ai]
 ---
 
-[This is a working paper!]
+[This is a working paper! I've learned much from John Seely Brown, and his influence here is felt, especially vis-a-vis learning in action or in situ, and abduction.]
 
 I've been learning Lisp. Not for the first time — I used it decades ago on a Symbolics, and used Smalltalk before that — but this time is different enough to be worth writing down.
 
