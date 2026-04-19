@@ -5,6 +5,8 @@ categories: [Essays]
 tags: [technology, ai]
 ---
 
+[This is a working paper!]
+
 I've been learning Lisp. Not for the first time — I used it decades ago on a Symbolics, and used Smalltalk before that — but this time is different enough to be worth writing down.
 
 Back then I was a user. I wrote Lisp the way a tourist speaks a language: enough to get around, not enough to think in. I knew the syntax. I'd heard the famous sentences — that code is data, that functions are just lists, that eval and apply are the whole engine. I could have repeated them at a party. But I hadn't lived inside them.
