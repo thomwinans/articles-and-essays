@@ -18,7 +18,7 @@ The deeper problem isn’t the moat. It’s who captures the surplus and benefit
 
 That’s the real story. The SaaS incumbents aren’t fighting a war against AI. They’re fighting a war against their own customers capturing the value of AI. 
 
-Every pricing innovation Benioff describes — consumption, wall-to-wall, AWUs — is an innovation in extracting rent from productivity improvements that weren’t his to extract.
+Every pricing innovation Benioff describes — consumption, wall-to-wall, AWUs — is an innovation in extracting rent from productivity improvements that may not be entirely his to extract.
 
 This is why “good enough” matters. Good enough doesn’t mean worse. It means: the point at which the cost of the incumbent exceeds the cost of reinventing. When a small team with Claude and a weekend produces something that does 80% of what Salesforce does for one specific workflow, the calculation changes. Not because Salesforce got worse. Because the denominator got smaller. The consulting tax that used to be the price of admission is now the reason to walk around the building.
 
