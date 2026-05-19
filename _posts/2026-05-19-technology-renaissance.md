@@ -1,5 +1,5 @@
 ---
-title: "Technology Renaissance"
+title: "Technology Renaissance vs. The Age of Rationed Thinking"
 date: 2026-05-19 09:00:00 -0400
 categories: [Essays]
 tags: [ai, technology]
