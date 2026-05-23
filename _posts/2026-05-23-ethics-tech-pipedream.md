@@ -13,7 +13,7 @@ We seem to have forgotten this. Or maybe we've decided it's inconvenient.
 
 A social network post I saw recently walked through three "models" of ethical AI: moral alignment, safety as predictability, and auditability. The post was honest about the limits of each. But it took for granted that ethics is a property a tool can have.
 
-It isn't. 
+It isn't, in my opinion.
 
 For me, this is precisely the area in social discourse about AI where lines blur, and where the particulars of taking the three in turn are instructive.
 
@@ -39,4 +39,4 @@ So when I hear the phrase "ethical AI," I hear something a little different than
 
 There is no ethical technology. There is only ethical use of it, and ethical creation of it, and ethical funding of it, and ethical regulation of it — each of those an act by a person, recoverable to a name, answerable to consequences. The tool sits there, doing what tools do. We are the ones with discretion. We have always been the ones with discretion.
 
-Tech is tech. It just is. People choose.
+Tech is tech. It just is. People choose how to view and use it. The choice determines the effectiveness of use and outcomes.
