@@ -13,6 +13,6 @@ That service did not end with them. My wife served in your military, as did a so
 
 My wife and I have raised our children in the same traditions we were raised in — and these are not empty traditions. Faith, above all, is no faith at all if it is only tradition. We were taught to respect you, and there is much to respect. For 250 years, you have stood for opportunity — a place where people could come, put down roots, freely worship, build a life, and chase dreams. We may not always understand where our people are headed, but even so, we would not choose to live anywhere else.
 
-My prayer is that God would grant you, America, His favor, and that we as a nation of people would seek Him first of all — for the lasting good of this country and the generations still to come.
+My prayer is that God would grant you, America, His favor, and that we as a nation would seek Him first of all — for the lasting good of this country and the generations still to come.
 
 We thank God for you! Happy Birthday!
